@@ -1,0 +1,9 @@
+c:\users\dimas\documents\visual studio 2015\Projects\CobaCircular\CobaCircular\bin\Debug\CobaCircular.exe.config
+c:\users\dimas\documents\visual studio 2015\Projects\CobaCircular\CobaCircular\bin\Debug\CobaCircular.exe
+c:\users\dimas\documents\visual studio 2015\Projects\CobaCircular\CobaCircular\bin\Debug\CobaCircular.pdb
+c:\users\dimas\documents\visual studio 2015\Projects\CobaCircular\CobaCircular\obj\Debug\CobaCircular.csprojResolveAssemblyReference.cache
+c:\users\dimas\documents\visual studio 2015\Projects\CobaCircular\CobaCircular\obj\Debug\CobaCircular.Form1.resources
+c:\users\dimas\documents\visual studio 2015\Projects\CobaCircular\CobaCircular\obj\Debug\CobaCircular.Properties.Resources.resources
+c:\users\dimas\documents\visual studio 2015\Projects\CobaCircular\CobaCircular\obj\Debug\CobaCircular.csproj.GenerateResource.Cache
+c:\users\dimas\documents\visual studio 2015\Projects\CobaCircular\CobaCircular\obj\Debug\CobaCircular.exe
+c:\users\dimas\documents\visual studio 2015\Projects\CobaCircular\CobaCircular\obj\Debug\CobaCircular.pdb
